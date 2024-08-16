@@ -1,1 +1,18 @@
 /* Write your CSS here! */
+body {
+    margin: 8;
+    display: block;
+}
+#mainHeading {
+    color: red;
+   
+}
+.funParagraph {
+    color: green;
+    font-family: sans-serif;
+    font-size: larger;
+    
+}
+#footer {
+    color: rgba(51, 157, 255, 0.836);
+}
